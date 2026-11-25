@@ -1,0 +1,3 @@
+dataset: 128058 events, 63369 slots, 1222 mints
+RESULT pnl=-0.0714 SOL buys=53 round_trips>=53 orders=106 fills=106 maxDD=0.011 top3=+0.0511 pnl_ex_top3=-0.1225
+  exits n=53 mean=-0.016 median=-0.213 share>=+40%: 0.04 share<=-20%: 0.53 median hold=131 slots
